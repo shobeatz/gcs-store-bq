@@ -7,7 +7,7 @@ def createStore(filename):
     # print(filename) 
 
     ##### TO-DO #####
-    project_id = "your-gcp-project-I'd"
+    project_id = "your-gcp-project-id"
     dataset_id = "your-dataset"
     table_id = "feature_store"
     bucket_name = "your-bucket-name"
